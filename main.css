@@ -4,7 +4,7 @@ body {
 }
 .foot {
   position: absolute;
-  line-height: .7em;
+  line-height: 1em;
   font-size: .7em;
   margin: .5em;
   bottom: 0em;
